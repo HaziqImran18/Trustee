@@ -1,0 +1,8 @@
+streamlit==1.26.0
+google-generativeai>=0.7.0,<0.8.0  # Google Gemini API for AI integration
+langchain-google-genai==1.0.10   # LangChain for advanced conversation handling
+python-dotenv==1.0.0             # To load environment variables like API keys
+requests==2.31.0                 # For handling API requests
+firebase-admin==6.0.1
+firebase==4.0.1
+
